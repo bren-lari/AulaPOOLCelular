@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\bin\Debug\netcoreapp3.1\AulaPOOLCelular.exe
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\bin\Debug\netcoreapp3.1\AulaPOOLCelular.deps.json
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\bin\Debug\netcoreapp3.1\AulaPOOLCelular.runtimeconfig.json
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\bin\Debug\netcoreapp3.1\AulaPOOLCelular.runtimeconfig.dev.json
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\bin\Debug\netcoreapp3.1\AulaPOOLCelular.dll
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\bin\Debug\netcoreapp3.1\AulaPOOLCelular.pdb
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.AssemblyInfo.cs
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.dll
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.pdb
+C:\Users\dev\Desktop\DEV - POOL\AulaPOOLCelular\obj\Debug\netcoreapp3.1\AulaPOOLCelular.genruntimeconfig.cache

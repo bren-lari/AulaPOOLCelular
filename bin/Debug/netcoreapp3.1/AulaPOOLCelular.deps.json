@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AulaPOOLCelular/1.0.0": {
+        "runtime": {
+          "AulaPOOLCelular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaPOOLCelular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
